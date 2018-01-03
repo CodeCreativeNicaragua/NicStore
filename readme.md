@@ -1,5 +1,10 @@
-# Sistema web - NisStore Tienda de Aplicaciones Educativas organizadas acorde al sistema educativo Nacional.
+# Sistema web - NisStore Tienda de Recursos Educativos .
 
+NisStore organiza las aplicaciones educativas, guias didactivas, libros, etc y todos los recursos Educativos segun el sistema educativo Nacional.
+
+## Objetivo
+
+El objetivo es organizar todo los recursos para su facil administracion y uso, para la comunidad educativa suba, busque y encuentre todos los recursos Educativos que necesite para apoyar el proceso de enseñanza aprendizaje de los y las estudiantes de todos los niveles Educativos.
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
